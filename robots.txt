@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /hit/
+
+Sitemap: https://github.io
