@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /hit/
-
-Sitemap: https://github.io
+Allow: /
+Sitemap: https://serveirc.com
